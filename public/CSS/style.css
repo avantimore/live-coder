@@ -183,7 +183,7 @@ font-family: 'Rubik', sans-serif; */
 
 .CodeMirror {
     border: 1px solid #eee;
-    height: 685px;
+    height: 500px;
     font-family: "Roboto Mono", monospace;
     padding: 1px 8px 0 5px;
     color: #c8d2d7;
@@ -292,7 +292,7 @@ video {
 .main__chat_window {
     flex-grow: 1;
     overflow-y: scroll;
-    height: 650px;
+    height: 490px;
 }
 
 .main__chat_window::-webkit-scrollbar {
